@@ -1,0 +1,49 @@
+/* 
+╔══════════════════════════════════════════════════╗
+║                Curso Front-End                   ║
+║                   Tarea Nº 5                     ║
+╠══════════════════════════════════════════════════╣
+║ Alumno: Alfredo López Allende                    ║
+║ RUT   : XX.XXX.XXX-3                             ║
+║ Fecha Entrega: 18 de junio de 2023               ║
+╚══════════════════════════════════════════════════╝
+*/
+h2 {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #f1f6f7;
+}
+
+h3 {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #01171b;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #01171b;
+}
+
+[class^="layout-"] {
+    border: 1px solid #080827;
+}
+
+.layout-header {
+    background-color: #30A2FF;
+}
+
+.layout-array {
+    background-color: #00C4FF;
+}
+.layout-promedio {
+    background-color: #FFE7A0;
+}
+.layout-suma {
+    background-color: #FFF5B8;
+}
